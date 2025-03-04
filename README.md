@@ -4,7 +4,7 @@ if you are incoperating your own api key please use the website https://openweat
 this is a step by step guide to help users to create an application of their own 
 
 step 1: 
-reserch your projects field and related emerging tech 
+reserch your projects field and related emerging tech, this is then added to an porposal, and any refrences needed should be added to the appendix at the end 
 
 step 2:
 design your layout and data as well any back end related stuff
